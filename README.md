@@ -4,7 +4,7 @@ hide files inside images
 
 ## Getting Started
 
-Python3 is needed, but no modules.
+Python3 is needed, but no external modules.
 
 ### Prerequisites
 
